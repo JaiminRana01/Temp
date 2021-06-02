@@ -3,10 +3,10 @@
 In this project, we are developing a Virtual Assistant system for desktops that is aiming towards the fast and easy daily life usage, helping users to the fullest. 
 
 Features of the project:
-→  Launching apps with facial recognition security
-→  Sending mails through voice commands
-→  Make yourself up to date with top news, weather forecast etc.
-→  Opening websites and getting information about specific topics.
+* Launching apps with facial recognition security
+*  Sending mails through voice commands
+*  Make yourself up to date with top news, weather forecast etc.
+*  Opening websites and getting information about specific topics.
 
 # Requirements:
 
