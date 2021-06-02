@@ -3,15 +3,15 @@
 In this project, we are developing a Virtual Assistant system for desktops that is aiming towards the fast and easy daily life usage, helping users to the fullest. 
 
 Features of the project:
-→ Launching apps with facial recognition security
-→ Sending mails through voice commands
-→ Make yourself up to date with top news, weather forecast etc.
-→ Opening websites and getting information about specific topics.
+→  Launching apps with facial recognition security
+→  Sending mails through voice commands
+→  Make yourself up to date with top news, weather forecast etc.
+→  Opening websites and getting information about specific topics.
 
 # Requirements:
 
-1.Python 3.9
-2.Microsoft Visual C++ redistributable (latest supported version)
+1. Python 3.9
+2. Microsoft Visual C++ redistributable (latest supported version)
 
 # Installation:
 
@@ -36,17 +36,17 @@ To install libraries required for this project, you have to set up a new virtual
 
 Steps to install virtual environment module and set up a new virtual environment:
 
-1.Open the terminal.
-2.Installing the virtualenv package with pip:
+1. Open the terminal.
+2. Installing the virtualenv package with pip:
 ``` 
 pip install virtualenv
 ```
-3.Creating a virtual environment:
+3. Creating a virtual environment:
 Go to your project’s directory and run venv:
 ```
 python -m venv env
 ```
-4.Activating a virtual environment:
+4. Activating a virtual environment:
 ```
 .\env\Scripts\activate
 ```
@@ -72,18 +72,18 @@ At first, The assistant will ask you to input Your Name and Email Address. Type 
 
 Then, it will show “say something...”. Mic will be turned on and you can give voice commands now.
 
-1.Launch Apps
-2.Send Email
-3.Giving latest News
+1. Launch Apps
+2. Send Email
+3. Giving latest News
 It will show and tell the latest news of today’s date as a voice output.
 Voice command: News
-4.Giving information about weather forecast:
+4. Giving information about weather forecast:
 it will show and tell the weather forecast as a voice output.
 Voice command: weather in <city>
-5.Getting information from Wikipedia:
+5. Getting information from Wikipedia:
 When a user wants to search for anything, it will read the first 500 characters from the Wikipedia page and return them as a string in a well organized way.
 Voice command: tell me about <topic>
-6.Open any website:
+6. Open any website:
 It will open a website in your default browser according to voice input.
 Voice command: open <website domain>
 
