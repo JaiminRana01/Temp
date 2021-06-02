@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 
 In this project, we are developing a Virtual Assistant system for desktops that is aiming towards the fast and easy daily life usage, helping users to the fullest. 
 
@@ -8,14 +8,14 @@ Features of the project:
 → Make yourself up to date with top news, weather forecast etc.
 → Opening websites and getting information about specific topics.
 
-#Requirements:
+# Requirements:
 
 1.Python 3.9
 2.Microsoft Visual C++ redistributable (latest supported version)
 
-#Installation:
+# Installation:
 
-###Step 1: Clone Repository
+### Step 1: Clone Repository
 Clone repo using this link:
 ```
 https://github.com/JaiminRana01/VirtualAssistant-AIProject.git
@@ -31,7 +31,7 @@ Auto face recog (5)
 Tensorflow
 keras
 
-###Step 2: Set up the virtual environment.
+### Step 2: Set up the virtual environment.
 To install libraries required for this project, you have to set up a new virtual environment.
 
 Steps to install virtual environment module and set up a new virtual environment:
@@ -53,7 +53,7 @@ python -m venv env
 You can confirm you’re in the virtual environment by checking the location of your Python interpreter, it should point to the env directory.
 where python
 
-###Step 3: Installing Packages
+### Step 3: Installing Packages
 You need to install all the required packages for this project. There is a requirements.txt present in the project directory which consists of all the required package names and their version. You have to install all the packages using this command:
 
 ```
@@ -66,7 +66,7 @@ You can check if all the packages are installed or not by this command:
 pip list
 ```
 
-##Usage:
+## Usage:
 Run the main.py file from the project’s directory.
 At first, The assistant will ask you to input Your Name and Email Address. Type in the information and you’re good to go.
 
